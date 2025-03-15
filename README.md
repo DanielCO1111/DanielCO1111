@@ -25,16 +25,13 @@
 
 
 ### **Software Development**
-- Object-Oriented Programming (OOP)
--  Data Structures
--   Algorithms
--    Multi-threading
--    Sockets
-
-- client-server architecture.
-  
-- **Android Development** (MVVM, RESTful API)
-  
+- **Object-Oriented Programming** (OOP)
+- **Data Structures**
+- **Algorithms**
+- **Multi-threading**
+- **Sockets**
+- **client-server architecture.** 
+- **Android Development** (MVVM, RESTful API) 
 - **XAML** for UI Development
 
 ### **Web Development**
