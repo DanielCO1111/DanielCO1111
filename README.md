@@ -25,7 +25,11 @@
 
 
 ### **Software Development**
-- Object-Oriented Programming (OOP), Data Structures, Algorithms, Multi-threading, Sockets
+- Object-Oriented Programming (OOP)
+-  Data Structures
+-   Algorithms
+-    Multi-threading
+-    Sockets
 
 - client-server architecture.
   
