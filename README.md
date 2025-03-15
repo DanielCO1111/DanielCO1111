@@ -72,11 +72,11 @@
 
 ---
 
-## 📫 Contact Me
-
-📧 **Email:** [dcohen111153@gmail.com](mailto:dcohen111153@gmail.com)  
+## 📫 Let's Connect! 
 
 💼 **LinkedIn:** [linkedin.com/in/daniel-cohen101](https://www.linkedin.com/in/daniel-cohen101)  
+
+📧 **Email:** [dcohen111153@gmail.com](mailto:dcohen111153@gmail.com) 
 
 📞 **phone number:** +972547627314
 
