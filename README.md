@@ -26,9 +26,9 @@
 
 ### **Software Development**
 - Object-Oriented Programming (OOP), Data Structures, Algorithms, Multi-threading, Sockets
-- 
+  
 - **Android Development** (MVVM, RESTful API)
-- 
+  
 - **XAML** for UI Development
 
 ### **Web Development**
