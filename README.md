@@ -26,6 +26,8 @@
 
 ### **Software Development**
 - Object-Oriented Programming (OOP), Data Structures, Algorithms, Multi-threading, Sockets
+
+- client-server architecture.
   
 - **Android Development** (MVVM, RESTful API)
   
@@ -41,7 +43,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![Client-Server Architecture](https://img.shields.io/badge/Client--Server-Architecture-informational?style=flat-square)
 
 ### **Data and Databases**
 
