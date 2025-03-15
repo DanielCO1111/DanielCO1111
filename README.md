@@ -95,18 +95,6 @@ Key principles:
 - **Data Efficiency:** Using optimal data structures (e.g., dictionaries, queues) to enhance computational performance.
 - **Scalability:** Ensuring code can handle large datasets while maintaining accuracy in biological simulations.
 
-### 🎮 [Arknoid Game](https://github.com/DanielCO1111/Arknoid)
-- Developed **Arknoid game** in Java, adhering to **OOP principles**.
-
-### 🔬 [Cellular Processes](https://github.com/DanielCO1111/Cellular-Processes)
-- Simulated cellular processes using **Python** with modular code.
-- Efficiently managed **DNA sequences, mRNA codons, & protein synthesis**.
-
-### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
-- **Web:** Built with **React.js (MVC)**.
-- **Android:** Built with **MVVM**, Node.js RESTful API, MongoDB, Docker.
-- Implemented **client-server TCP sockets (multithreading)**.
-
 ---
 
 
