@@ -59,11 +59,15 @@
 
 ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=linux&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+
 
 
 ---
@@ -73,6 +77,8 @@
 📧 **Email:** [dcohen111153@gmail.com](mailto:dcohen111153@gmail.com)  
 
 💼 **LinkedIn:** [linkedin.com/in/daniel-cohen101](https://www.linkedin.com/in/daniel-cohen101)  
+
+📞 **phone number:** +972547627314
 
 
 ---
