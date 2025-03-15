@@ -66,7 +66,48 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
+## 🚀 Projects
 
+### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
+- **Web:** Built with **React.js (MVC)**.
+- **Android:** Built with **MVVM**, Node.js RESTful API, MongoDB, Docker.
+- Implemented **client-server TCP sockets (multithreading)**.
+Inspired by the popular streaming service, this project was built to explore full-stack development, emphasizing **scalability, performance, and modular architecture**. The backend follows **RESTful API principles** using Node.js and MongoDB, ensuring seamless data flow between the client and server. The Android application is structured with **MVVM architecture**, ensuring maintainability and testability, while the web version adheres to **MVC design patterns** with React.js. 
+
+Key principles:
+- **Separation of Concerns (SoC):** Ensuring distinct layers for data, UI, and business logic.
+- **Concurrency & Multithreading:** Efficiently managing streaming requests using TCP sockets.
+- **Scalability & Performance:** Optimized API requests and database indexing for faster response times.
+
+### 🎮 [Arknoid Game](https://github.com/DanielCO1111/Arknoid)
+This game was developed with **Object-Oriented Programming (OOP) principles**, focusing on **modular design, reusability, and maintainability**. The architecture follows **SOLID principles**, ensuring each class has a single responsibility and clear interactions. 
+
+Key principles:
+- **Encapsulation & Abstraction:** Organizing game elements into classes with clear interfaces.
+- **Polymorphism:** Allowing different game objects to behave uniquely through overridden methods.
+- **Efficiency:** Optimized event handling and rendering for smooth performance.
+
+### 🔬 [Cellular Processes](https://github.com/DanielCO1111/Cellular-Processes)
+This project simulates **biological cellular processes**, leveraging **modular programming** and **efficient data structures** to handle large-scale biological datasets. It was designed to accurately model **DNA sequences, mRNA translation, and protein synthesis** using Python.
+
+Key principles:
+- **Modular Code Design:** Breaking down biological processes into independent, reusable modules.
+- **Data Efficiency:** Using optimal data structures (e.g., dictionaries, queues) to enhance computational performance.
+- **Scalability:** Ensuring code can handle large datasets while maintaining accuracy in biological simulations.
+
+### 🎮 [Arknoid Game](https://github.com/DanielCO1111/Arknoid)
+- Developed **Arknoid game** in Java, adhering to **OOP principles**.
+
+### 🔬 [Cellular Processes](https://github.com/DanielCO1111/Cellular-Processes)
+- Simulated cellular processes using **Python** with modular code.
+- Efficiently managed **DNA sequences, mRNA codons, & protein synthesis**.
+
+### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
+- **Web:** Built with **React.js (MVC)**.
+- **Android:** Built with **MVVM**, Node.js RESTful API, MongoDB, Docker.
+- Implemented **client-server TCP sockets (multithreading)**.
+
+---
 
 
 
