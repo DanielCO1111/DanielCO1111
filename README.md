@@ -51,7 +51,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3C9AB2?style=flat-square)
 
 ### **Tools and Platforms**
 
