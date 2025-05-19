@@ -45,6 +45,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Biological Databases](https://img.shields.io/badge/Biological-Databases-green?style=flat-square)
 
+### **Machine Learning & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C9AB2?style=flat-square)
+
 ### **Tools and Platforms**
 
 ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=linux&logoColor=white)
