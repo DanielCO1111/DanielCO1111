@@ -2,7 +2,7 @@
 
 🎓 **B.Sc. in Computational Biology (Computer Science & Biology)** at Bar-Ilan University.
 
-💻 Passionate about **Software Engineering, DevOps, Full-Stack & Backend Development**.
+💻 Passionate about **Software Engineering, Machine Learning & Data Science**.
 
 🚀 Skilled in technology, databases, and software development with a proactive approach to learning and innovation.
 
