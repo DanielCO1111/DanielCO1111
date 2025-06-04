@@ -26,7 +26,7 @@
 - **Algorithms**
 - **Multi-threading**
 - **Sockets**
-- **client-server architecture.** 
+- **Client-server architecture.** 
 - **Android Development** (MVVM, RESTful API) 
 - **XAML** for UI Development
 
