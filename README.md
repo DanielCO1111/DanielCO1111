@@ -1,6 +1,6 @@
 #  Hi, I'm Daniel Cohen! 👋
 
-🎓 **B.Sc. in Computational Biology (Computer Science & Biology)** at Bar-Ilan University./
+🎓 **B.Sc. in Computational Biology (Computer Science & Biology)** at Bar-Ilan University.
 
 💻 Passionate about **Software Engineering, Machine Learning & Data Science**.
 
