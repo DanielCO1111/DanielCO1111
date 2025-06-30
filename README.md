@@ -64,11 +64,47 @@
 
 ### 📹 [Image and Video Processing - Infant Visual Recognition Analysis](https://github.com/DanielCO1111/Image_and_Video_Processing)
 
-Automated image processing pipeline for analyzing infant vision using YOLOv5 and OpenCV. Includes video frame extraction, blur simulation, object detection, and confidence analysis across multiple visual conditions.
+Developed an AI-driven pipeline using PyTorch to simulate infant vision through Gaussian blur, modeling early-stage visual perception. The project assesses object detection performance of YOLOv5 and Haar Cascades under degraded visual conditions, applying principles of self-supervised learning. Enhanced detection reliability by fine-tuning hyperparameters and adapting model configurations, demonstrating end-to-end data experimentation and optimization.
+
+Key principles:
+
+-**Computer Vision & Image Processing:** Automating object detection in videos.
+
+-**Self-supervised Learning:** Evaluating detection robustness across blurred conditions.
+
+-**Pipeline Automation:** Batch processing using OpenCV, YOLOv5, and custom analysis scripts.
+
+-**Statistical Evaluation:** Analyzing confidence metrics and detection counts across experiments.
 
 ### 🧰 [Machine Learning Model Development](https://github.com/DanielCO1111/ML_and_DL_development)
 
-Hands-on implementation of ML algorithms using Python. Includes logistic regression (NumPy & PyTorch), KNN, K-Means clustering, PCA, CNNs, and statistical analysis. The project walks through the full data science cycle from data prep to model evaluation and visualization.
+Implemented foundational machine learning algorithms for real-world classification and clustering tasks such as university admissions prediction and digit recognition. Developed skills in data preprocessing, model training, and model evaluation using Python, NumPy, Pandas, and Matplotlib. Algorithms include logistic regression, neural networks (NumPy and PyTorch), k-nearest neighbors (KNN), and k-means clustering. Advanced topics include dimensionality reduction with PCA and convolutional neural networks (CNNs).
+
+Key principles:
+
+-**From-Scratch Implementation:** Neural networks, KNN, and K-means built using NumPy.
+
+-**Framework Usage:** Leveraging PyTorch for scalable deep learning.
+
+-**Model Evaluation:** Training/validation splitting, loss tracking, and performance visualization.
+
+-**Data Visualization:** Clear presentation of decision boundaries and clustering results.
+
+-**Optimization:** Hyperparameter tuning and performance analysis.
+
+Included Methods and Algorithms:
+
+#### Logistic Regression
+
+#### Feedforward Neural Networks (NumPy & PyTorch)
+
+#### K-Nearest Neighbors (KNN)
+
+#### K-Means Clustering
+
+#### Principal Component Analysis (PCA)
+
+#### Convolutional Neural Networks (CNN)
 
 ### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
 - **Web:** Built with **React.js (MVC)**.
