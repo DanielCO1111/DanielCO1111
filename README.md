@@ -62,6 +62,14 @@
 
 ## 🚀 Projects
 
+### 📹 Image and Video Processing - Infant Visual Recognition Analysis
+
+Automated image processing pipeline for analyzing infant vision using YOLOv5 and OpenCV. Includes video frame extraction, blur simulation, object detection, and confidence analysis across multiple visual conditions.
+
+### 🧰 Machine Learning Model Development
+
+Hands-on implementation of ML algorithms using Python. Includes logistic regression (NumPy & PyTorch), KNN, K-Means clustering, PCA, CNNs, and statistical analysis. The project walks through the full data science cycle from data prep to model evaluation and visualization.
+
 ### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
 - **Web:** Built with **React.js (MVC)**.
 - **Android:** Built with **MVVM**, Node.js RESTful API, MongoDB, Docker.
