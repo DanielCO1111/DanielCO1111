@@ -92,7 +92,7 @@ Key principles:
 
 -**Optimization:** Hyperparameter tuning and performance analysis.
 
-Included Methods and Algorithms:
+### Included Methods and Algorithms:
 
 #### Logistic Regression
 
