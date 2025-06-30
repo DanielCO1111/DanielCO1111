@@ -62,11 +62,11 @@
 
 ## 🚀 Projects
 
-### 📹 Image and Video Processing - Infant Visual Recognition Analysis
+### 📹 [Image and Video Processing - Infant Visual Recognition Analysis](https://github.com/DanielCO1111/Image_and_Video_Processing)
 
 Automated image processing pipeline for analyzing infant vision using YOLOv5 and OpenCV. Includes video frame extraction, blur simulation, object detection, and confidence analysis across multiple visual conditions.
 
-### 🧰 Machine Learning Model Development
+### 🧰 [Machine Learning Model Development](https://github.com/DanielCO1111/ML_and_DL_development)
 
 Hands-on implementation of ML algorithms using Python. Includes logistic regression (NumPy & PyTorch), KNN, K-Means clustering, PCA, CNNs, and statistical analysis. The project walks through the full data science cycle from data prep to model evaluation and visualization.
 
