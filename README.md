@@ -147,7 +147,7 @@ Key principles:
 - **Data Efficiency:** Using optimal data structures (e.g., dictionaries, queues) to enhance computational performance.
 - **Scalability:** Ensuring code can handle large datasets while maintaining accuracy in biological simulations.
 
-### 🧬 Gene Expression Analysis (MATLAB)
+### 🧬 [Gene Expression Analysis (MATLAB)](https://github.com/DanielCO1111/Gene-Expression)
 A MATLAB program for analyzing gene expression data across multiple experimental conditions. The program filters genes by signal-to-noise ratio (SNR), standardizes expression levels, performs k-means clustering, and visualizes results as heat maps and box plots.
 
 Key principles:
