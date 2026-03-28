@@ -120,6 +120,18 @@ Key principles:
 
 #### Convolutional Neural Networks (CNN)
 
+
+### 🧬 [Gene Expression Analysis (MATLAB)](https://github.com/DanielCO1111/Gene-Expression)
+A MATLAB program for analyzing gene expression data across multiple experimental conditions. The program filters genes by signal-to-noise ratio (SNR), standardizes expression levels, performs k-means clustering, and visualizes results as heat maps and box plots.
+
+Key principles:
+- **Signal Processing:** Filtering genes using a configurable SNR threshold to isolate statistically meaningful expression changes.
+- **Clustering & Pattern Recognition:** Applying k-means clustering to group genes by expression profile, with intra-cluster sorting by global change magnitude.
+- **Data Standardization:** Supporting both z-score normalization and min-max range scaling for pre-clustering standardization.
+- **Interactive Analysis:** GUI-driven parameter selection (threshold, cluster count, standardization method) with real-time heatmap previews.
+- **Modular Architecture:** Clean separation into single-responsibility functions, with no code duplication across the pipeline.
+
+
 ### 🎬 [Netflix Streaming Platform](https://github.com/DanielCO1111/Netflix)
 - **Web:** Built with **React.js (MVC)**.
 - **Android:** Built with **MVVM**, Node.js RESTful API, MongoDB, Docker.
@@ -147,15 +159,6 @@ Key principles:
 - **Data Efficiency:** Using optimal data structures (e.g., dictionaries, queues) to enhance computational performance.
 - **Scalability:** Ensuring code can handle large datasets while maintaining accuracy in biological simulations.
 
-### 🧬 [Gene Expression Analysis (MATLAB)](https://github.com/DanielCO1111/Gene-Expression)
-A MATLAB program for analyzing gene expression data across multiple experimental conditions. The program filters genes by signal-to-noise ratio (SNR), standardizes expression levels, performs k-means clustering, and visualizes results as heat maps and box plots.
-
-Key principles:
-- **Signal Processing:** Filtering genes using a configurable SNR threshold to isolate statistically meaningful expression changes.
-- **Clustering & Pattern Recognition:** Applying k-means clustering to group genes by expression profile, with intra-cluster sorting by global change magnitude.
-- **Data Standardization:** Supporting both z-score normalization and min-max range scaling for pre-clustering standardization.
-- **Interactive Analysis:** GUI-driven parameter selection (threshold, cluster count, standardization method) with real-time heatmap previews.
-- **Modular Architecture:** Clean separation into single-responsibility functions, with no code duplication across the pipeline.
 
 ---
 
