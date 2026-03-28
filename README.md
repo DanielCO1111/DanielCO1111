@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 
 ### **Software Development**
@@ -132,6 +133,16 @@ Key principles:
 - **Modular Code Design:** Breaking down biological processes into independent, reusable modules.
 - **Data Efficiency:** Using optimal data structures (e.g., dictionaries, queues) to enhance computational performance.
 - **Scalability:** Ensuring code can handle large datasets while maintaining accuracy in biological simulations.
+
+### 🧬 Gene Expression Analysis (MATLAB)
+A MATLAB program for analyzing gene expression data across multiple experimental conditions. The program filters genes by signal-to-noise ratio (SNR), standardizes expression levels, performs k-means clustering, and visualizes results as heat maps and box plots.
+
+Key principles:
+- **Signal Processing:** Filtering genes using a configurable SNR threshold to isolate statistically meaningful expression changes.
+- **Clustering & Pattern Recognition:** Applying k-means clustering to group genes by expression profile, with intra-cluster sorting by global change magnitude.
+- **Data Standardization:** Supporting both z-score normalization and min-max range scaling for pre-clustering standardization.
+- **Interactive Analysis:** GUI-driven parameter selection (threshold, cluster count, standardization method) with real-time heatmap previews.
+- **Modular Architecture:** Clean separation into single-responsibility functions, with no code duplication across the pipeline.
 
 ---
 
