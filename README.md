@@ -2,7 +2,7 @@
 
 🎓 **B.Sc. in Computer Science and Biological Data Science (Computational Biology)** at Bar-Ilan University.
 
-💻 Passionate about **Software Engineering, Machine Learning & Data Science**.
+💻 Passionate about **AI Software Engineering, Machine Learning & Data Science**.
 
 🚀 Skilled in technology, databases, and software development with a proactive approach to learning and innovation.
 
